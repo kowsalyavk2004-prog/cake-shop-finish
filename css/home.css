@@ -112,6 +112,7 @@
     background-color: #df5e13;
     color: white;
     transition: 1s;
+    z-index: 99;
 }
 
 .body-side-info ul li {
@@ -125,9 +126,7 @@
 
 .cupcake {
     /* border: 1px solid burlywood; */
-    /* background: url("../img/top-view-little-yummy-cake-with-cream-fresh-red-strawberries-light-desk-cake-fruit-berry-biscuit-sweet-cream.jpg") no-repeat; */
-    /* background-size: cover;
-    background-position: left; */
+
     background-color: #f5dddd;
 }
 
@@ -295,7 +294,8 @@
 
     .con {
         /* border: 1px solid red; */
-        height: 70vh;
+        height: 83vh;
+
         padding: 0 0 20rem 0;
     }
 
